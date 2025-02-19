@@ -19,7 +19,7 @@ must consist of either the string `True` or the string `False`, which denote the
 
 #### The submission server
 
-In order to submit predictions for your team, you have to use our [submission server](tbd). The access credentials for the submission server will be given out by the TAs in next week's lab.
+In order to submit predictions for your team, you have to use our [submission server](http://big-data-competitions.westeurope.cloudapp.azure.com:8080/). The access credentials for the submission server will be given out by the TAs in next week's lab.
 
 For each submission, the submission server will compute the accuracy on the validation set and the test set. However, only the accuracy on the validation set will be shown (and used to generate the leaderboard).
 
